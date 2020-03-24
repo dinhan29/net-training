@@ -1,1 +1,6 @@
 D:\training\net-training\net-training\bin\Debug\net-training.exe.config
+D:\training\net-training\net-training\bin\Debug\net-training.exe
+D:\training\net-training\net-training\bin\Debug\net-training.pdb
+D:\training\net-training\net-training\obj\Debug\net-training.csprojResolveAssemblyReference.cache
+D:\training\net-training\net-training\obj\Debug\net-training.exe
+D:\training\net-training\net-training\obj\Debug\net-training.pdb

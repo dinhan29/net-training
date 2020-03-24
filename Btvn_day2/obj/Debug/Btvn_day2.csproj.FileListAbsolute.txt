@@ -1,0 +1,6 @@
+D:\training\net-training\Btvn_day2\bin\Debug\Btvn_day2.exe.config
+D:\training\net-training\Btvn_day2\bin\Debug\Btvn_day2.exe
+D:\training\net-training\Btvn_day2\bin\Debug\Btvn_day2.pdb
+D:\training\net-training\Btvn_day2\obj\Debug\Btvn_day2.csprojResolveAssemblyReference.cache
+D:\training\net-training\Btvn_day2\obj\Debug\Btvn_day2.exe
+D:\training\net-training\Btvn_day2\obj\Debug\Btvn_day2.pdb
