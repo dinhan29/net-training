@@ -27,3 +27,16 @@ Làm BT - Tạo một danh sách chứa 30 tên của các ca sỹ việt nam
 In ra tất cả các ca sỹ chứa từ khóa nhập vào
 In ra các ca sỹ có tuổi lớn hơn 27
  In ra các ca sỹ có tên chứa từ khóa nhập vào và tuổi nhỏ hơn 25s
+
+ Day 3: 24/3/2020
+ - Abstract class và interface class
+ - Điểm khác nhau giữa asbtract class và interface class
+ + A class inherits one or more interfaces. But a class can inherit only one abstract class. (inherit : kế thừa)
+ + An interface cannot have the constructor declaration. An abstract class can have the constructor declaration.
+ + Interface cannot have fields. Abstract class can have defined fields and constants.
+ + Interface has only abstract class . Abstract class can have non-abstract methods.
+
+ - Ghi và viết file 
+ - Json
+   
+ Day 4: 25/3/2020

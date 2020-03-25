@@ -10,5 +10,6 @@ namespace Btvn_day2.Process
     {
         void Display();
         bool IsYoung();
+        string RandomName();
     }
 }
